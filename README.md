@@ -42,4 +42,5 @@ The objective of this project is to provide a centralized and interactive dashbo
 7. Screenshot/Demos-
    [alt text](https://github.com/Nikita13-2003/Automobile-Sales-Dashboard/blob/main/Automobile%20Sales%20Dashboard%20on%20MS%20Excel.xlsx)
    <img width="1341" height="424" alt="image" src="https://github.com/user-attachments/assets/7966f19b-a2ef-4768-aaf1-b28e9e275c65" />
+<img width="1340" height="542" alt="image" src="https://github.com/user-attachments/assets/bef38ace-0e5e-4e4b-92e4-c2fe1f0f71f4" />
 

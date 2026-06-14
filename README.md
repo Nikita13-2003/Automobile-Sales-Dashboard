@@ -40,4 +40,5 @@ The objective of this project is to provide a centralized and interactive dashbo
 ✔ Performance Monitoring & Reporting
 
 7. Screenshot/Demos-
-   [alt text]()
+   [alt text](https://github.com/Nikita13-2003/Automobile-Sales-Dashboard/blob/main/Automobile%20Sales%20Dashboard%20on%20MS%20Excel.xlsx)
+   
